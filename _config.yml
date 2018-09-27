@@ -1,3 +1,11 @@
-title: GOGO
+name: GOGO
 description: Girlfriend on the Go!
 markdown: kramdown
+baseurl: "/gogo.github.io"
+permalink: /:title/
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+footer-links:
+  email:
+  facebook:
+  twitter:
+  youtube:
